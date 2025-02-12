@@ -1,0 +1,15 @@
+1/27/2025 - Monday
+ - Added the core game
+ - Player, Opponent, Background
+2/4/2025 - Tuesday
+ - Added UI
+ - Made the Attack Menu
+2/5/2025 - Wednesday
+ - Added the Switch Menu
+ - Added Icons to Switch Menu
+ - Added Health Menu
+ - Player / Opponent take damage
+2/6/2025 - Thursday
+ - Added Oppenent Attack
+ - Added Animations
+ - Added Music
